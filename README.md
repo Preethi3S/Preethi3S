@@ -18,14 +18,14 @@
 ---
 
 ### 🛠️ Tech Stack
-**Frontend:** React, TailwindCSS, Three.js, JavaScript, HTML, CSS  
+**Frontend:** React, TailwindCSS, JavaScript, HTML, CSS  
 **Backend:** Node.js, Express, MongoDB  
 **DevOps & Cloud:** AWS, Docker, GitHub Actions, CI/CD Pipelines  
 **Languages:** Java, Python, C++, JavaScript  
 **Others:** Data Structures & Algorithms, System Design  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,express,mongodb,java,python,aws,docker,git,github,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,python,aws,docker,git,github,cpp,js,html,css" />
 </p>
 
 ---
