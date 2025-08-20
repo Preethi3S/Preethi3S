@@ -21,7 +21,7 @@
 **Frontend:** React, TailwindCSS, JavaScript, HTML, CSS  
 **Backend:** Node.js, Express, MongoDB  
 **DevOps & Cloud:** AWS, Docker, GitHub Actions, CI/CD Pipelines  
-**Languages:** Java, Python, C++, JavaScript  
+**Languages:** Java, JavaScript  
 **Others:** Data Structures & Algorithms, System Design  
 
 <p align="center">
