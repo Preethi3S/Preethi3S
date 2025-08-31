@@ -10,7 +10,6 @@
 ### 🌟 About Me
 - 🎓 CSE Student passionate about building scalable apps & tools  
 - 💻 Hands-on experience as a **Java Developer (Oasis Infobyte)**  
-- 🌱 Currently building **VisuaLogic** – a 3D CS concepts visualizer using **Three.js**  
 - ☁️ Love working with **AWS, Docker & CI/CD Pipelines**  
 - 🤝 Open to collaborating on **Full-stack & DevOps projects**  
 - ⚡ Fun Fact: I love turning **complex CS concepts into visuals** 🎨  
