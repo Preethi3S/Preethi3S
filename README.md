@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Computer Science & Engineering Student | Full-Stack Developer | DevOps Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4B6CB7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Practitioner;Competitive+Programmer;3D+Visualizer+Builder;Always+Learning+New+Tech!"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4B6CB7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Always+Learning+New+Tech!"/>
 </p>
 
 ---
