@@ -30,10 +30,8 @@
 ---
 
 ### 📌 Featured Projects
-- 🎨 **VisuaLogic** → 3D interactive CS Education platform  
-- 🔧 **Ultimate CI/CD Pipeline** → End-to-end DevOps automation  
-- 📂 **Smart-FS-Simulator** → OS-based file system simulator  
-- 🤖 **AI-Web Augmentor** → Browser extension enhancing web intelligence  
+- 🎨 **VisuaLogic** → interactive CS Education platform    
+- 📂 **Smart-FS-Simulator** → OS-based file system simulator    
 - 📑 **Task Manager** → MERN-based productivity app  
 
 ---
